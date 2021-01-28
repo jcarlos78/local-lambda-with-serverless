@@ -1,0 +1,19 @@
+{
+  "name": "local-lambda-with-serverless",
+  "version": "1.0.0",
+  "description": "npm i serverless-mysql",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless-mysql": "^1.5.4"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.8.0",
+    "serverless-offline-lambda": "^1.0.6",
+    "serverless-plugin-simulate": "0.0.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Menezes",
+  "license": "ISC"
+}
